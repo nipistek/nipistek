@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[i'm a Night](https://gist.github.com/e47fc130be314ba59063287e9ef08421)
+[i'm a Night 🦉](https://gist.github.com/e47fc130be314ba59063287e9ef08421)
