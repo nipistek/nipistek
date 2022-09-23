@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little7279)](https://github.com/little7279)-->
 <!--![](https://img.shields.io/badge/Spotify-FAFAFA?style=flat&logo=spotify&logoColor=white")-->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
