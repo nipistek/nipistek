@@ -9,7 +9,6 @@
 <!--
   ![](metrics.plugin.starlists.languages.svg)
 -->
-<br><br><br>
 
 ![](https://www.codewars.com/users/little7279/badges/small)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
