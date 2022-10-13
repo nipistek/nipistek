@@ -2,9 +2,9 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little7279&theme=gruvbox) -->
 ![](https://www.codewars.com/users/little7279/badges/small) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
 
-[![Top Langs](https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&layout=compact&theme=gruvbox)]()
-
 ![little7279's GitHub stats](https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&layout=compact&theme=gruvbox)]()
 
 <!--
 **little7279/little7279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
