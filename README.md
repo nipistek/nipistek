@@ -24,7 +24,7 @@
 </div>
  
  - - + * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![[](https://moon-svg.minung.dev/moon.svg?size=100&theme=ray)](https://moon-svg.minung.dev/)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=39)](https://moon-svg.minung.dev)
 <!--
 **little7279/little7279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
