@@ -18,6 +18,8 @@
 ![](https://www.codewars.com/users/little7279/badges/small)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
 
+<!--![](https://img.shields.io/badge/Spotify-FAFAFA?style=flat&logo=spotify&logoColor=white")-->
+
 <br><br><br><br>
 </div>
  
@@ -39,6 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![](https://img.shields.io/badge/Spotify-FAFAFA?style=flat&logo=spotify&logoColor=white")-->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=afb42b&height=200&section=footer)
-
