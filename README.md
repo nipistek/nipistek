@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little7279&theme=gruvbox) -->
-![](https://www.codewars.com/users/little7279/badges/small) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
+![](https://www.codewars.com/users/little7279/badges/small)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
 
-![little7279's GitHub stats](https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&theme=gruvbox)
-
+![little7279's GitHub stats](https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&theme=gruvbox)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&layout=compact&theme=gruvbox)]()
 
 <!--
