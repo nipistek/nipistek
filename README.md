@@ -18,7 +18,7 @@
 <div align="center">
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&include_all_commits=true&theme=gruvbox" />
 </a>
 <br><br>
 -->
