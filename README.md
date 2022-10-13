@@ -17,6 +17,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=little7279)](https://solved.ac/little7279)
 
 </div>
+
 <!--
 **little7279/little7279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
