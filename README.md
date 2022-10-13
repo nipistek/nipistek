@@ -4,6 +4,9 @@
 <br><br><br>
 
 <div align="center">
+  
+  ![](metrics.plugin.languages.details.svg)
+  
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=true&show_icons=true&include_all_commits=false&theme=gruvbox" />
