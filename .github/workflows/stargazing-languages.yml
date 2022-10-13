@@ -10,9 +10,6 @@ name: Featured star list languages
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # Allows you to run this workflow manually from the Actions tab
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 
