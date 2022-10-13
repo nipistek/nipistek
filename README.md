@@ -2,9 +2,11 @@
 
 <br><br><br>
 <div align="center">
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=tr&show_icons=true&theme=gruvbox" />
 </a>
+-->
   <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&layout=compact&theme=gruvbox" />
