@@ -6,10 +6,12 @@
 
 <div align="center">
 
-  - - + *
+  - - + * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://moon-svg.minung.dev/moon.svg?size=100&theme=ray)
+  <!--
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray" alt="Moon.svg"/>
   </a>
+  -->
 </div>
 <!--
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=ray)](https://moon-svg.minung.dev)
