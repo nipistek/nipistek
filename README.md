@@ -11,7 +11,7 @@
 <br><br>
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&langs_count=6&layout=compact&theme=gruvbox" />
 </a>
 <br><br><br>
 
