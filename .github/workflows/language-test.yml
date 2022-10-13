@@ -34,3 +34,4 @@ jobs:
                 gnuplot
           plugin_languages_details: percentage
           plugin_languages_limit: 4
+          config_display: large
