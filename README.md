@@ -9,15 +9,6 @@
 <!--
   ![](metrics.plugin.starlists.languages.svg)
 -->
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api?username=little7279&count_private=true&show_icons=true&include_all_commits=false&theme=gruvbox" />
-</a>
-<br><br>
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chi-inky.vercel.app/api/top-langs/?username=little7279&exclude_repo=weefy,colab-notebooks,taeyang_rint,crelated-archives&langs_count=6&layout=compact&theme=gruvbox" />
-</a>
 <br><br><br>
 
 ![](https://www.codewars.com/users/little7279/badges/small)
