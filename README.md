@@ -6,8 +6,7 @@
 
 <div align="center">
 
-  - - + * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
+  - - + *
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray" alt="Moon.svg"/>
   </a>
