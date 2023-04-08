@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.73475673512235" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="244.73475673512235" y="0" width="69.88681199823287" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="314.6215687333552" y="0" width="65.07959721524" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="379.70116594859525" y="0" width="45.76728391727706" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="425.4684498658723" y="0" width="24.377535235357087" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="449.84598510122936" y="0" width="10.154014898770622" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.2837587144773" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="244.2837587144773" y="0" width="69.70667418111195" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="313.99043289558927" y="0" width="64.91185030782981" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="378.9022832034191" y="0" width="46.42261295495891" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="425.324896158378" y="0" width="24.314700547974347" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="449.6395967063524" y="0" width="10.36040329364767" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>53.2%</div>
+                                <div>53.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                                 C
                             </div>
                             <small>
-                                <div>14.15%</div>
+                                <div>14.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>5.3%</div>
+                                <div>5.29%</div>
                             </small>
                         </div>
                     </section>
@@ -73,7 +73,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>15.19%</div>
+                                <div>15.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -84,18 +84,18 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>9.95%</div>
+                                <div>10.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                Vue
                             </div>
                             <small>
-                                <div>2.21%</div>
+                                <div>2.25%</div>
                             </small>
                         </div>
                     </section>
