@@ -27,8 +27,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_skipped: >-
-                my-zsh-config-files, weefy, colab-notebooks, taeyang_rint, crelated-archives, tgr2nd, tgr1st-tut, supreme-octo-carnival
           plugin_languages_ignored: >-
                 jupyter notebook, html, css, tex, qmake, lex,
                 gnuplot
